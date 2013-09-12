@@ -1,0 +1,19 @@
+{
+  "name": "angular-template-otf-middleware",
+  "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gocardless-client/angular-template-otf-middleware.git"
+  },
+  "bugs": {
+    "url": "http://github.com/gocardless-client/angular-template-otf-middleware/issues"
+  },
+  "dependencies": {
+    "otf-render-middleware": "git://github.com/gocardless-client/otf-render-middleware.git",
+    "file-matches": "git://github.com/gocardless-client/file-matches.git",
+    "generate-angular-template": "git://github.com/gocardless-client/generate-angular-template.git",
+    "lodash": "*",
+    "q": "*"
+  },
+  "main": "angular-template-otf-middleware"
+}
